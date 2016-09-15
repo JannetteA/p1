@@ -1,0 +1,37 @@
+﻿
+#wrapper  {width: 850px;   
+		   height: 100%;
+		   margin: auto;
+		   padding-top: 0px;
+		   background-image:url('backgroundimage.jpg');
+		   background-repeat:no-repeat;		   
+}
+			  
+
+#content {
+			font-family: Tahoma, Geneva, sans-serif;
+           	font-size: 14px;
+           	line-height: 1em;
+           	padding-left: 330px;
+}
+
+#header 	{
+			padding-top: 30px;
+       	 	}
+
+#footer     {
+            text-align: right;
+            padding-top: 175px;
+            padding-right: 50px;
+            }
+
+h2          {
+ 	        color: white;
+            padding-top: 20px;
+            }
+
+h3   		{ 
+            color: #558C89;
+            padding-top: 10px;
+            }
+				
